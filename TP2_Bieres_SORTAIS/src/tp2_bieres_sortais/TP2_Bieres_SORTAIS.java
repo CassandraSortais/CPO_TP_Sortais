@@ -1,3 +1,5 @@
+package tp2_bieres_sortais;
+
 
 import tp2_bieres_sortais.BouteilleBiere;
 
